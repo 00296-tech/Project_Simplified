@@ -22,7 +22,7 @@ h1,h2,h3,p{margin-top:0}
 .menu-toggle{display:none;background:none;border:0;color:#fff}
 .hero,.page-hero,.story-hero{position:relative;min-height:100vh;overflow:hidden;background:#17322e}
 .hero-media,.page-hero:before,.story-hero:before,.experience-detail:before{content:"";position:absolute;inset:0;background-size:cover;background-position:center;filter:saturate(.9)}
-.hero-media{background-image:url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=2200&q=85")}
+.hero-media{background-image:url("https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1920&q=80")}
 .destinations-hero:before{background-image:url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2200&q=85")}
 .experiences-hero:before{background-image:url("https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?auto=format&fit=crop&w=2200&q=85")}
 .stories-hero:before{background-image:url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=2200&q=85")}
